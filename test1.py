@@ -1,19 +1,21 @@
 import cv2
+import numpy as np
  
 cap = cv2.VideoCapture(0)
  
 cv2.namedWindow("test")
  
-img_counter = 0
+
  
 while True:
-    ret, frame = cap.read()
-    if not ret:
+    img, frame = cap.read()
+    if not img:
         print("failed to grab frame")
         break
     cv2.imshow("test", frame)
  
-    k = cv2.waitKey(1)
+    if cv2.waitKey(1) == ord('q'):
+        break
     
  
 cap.release()
