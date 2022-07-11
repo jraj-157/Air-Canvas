@@ -21,7 +21,9 @@ Our program will have more efficiency better finger readings and tracking and ea
 ## APPLICATION
 
 This program has the potential to challenge traditional writing methods Even adults who find it difficult to use the keyboard can easily use the program. Expanding functionality, this program can also be used to control IoT devices soon.
-Wind-writing programs should listen only to their master's control touch and should not be misled by people all around. In the future, progress on Artificial Intelligence will improve the efficiency of writing in the air
+Wind-writing programs should listen only to their master's control touch and should not be misled by people all around. In the future, progress on Artificial Intelligence will improve the efficiency of writing in the air.
+
+❮img src="https://images.app.goo.gl/w86i3zHhNttzPcR89g" width="100" ❯
 
 
 ## TECHSTACKS
